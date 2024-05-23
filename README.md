@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/blog-preview-card-with-css-flexbox-ZH6Il2DZQD)
+- Live Site URL: (https://aishi-jain.github.io/Blog-Preview-Card/)
 
 ## My process
 
