@@ -38,6 +38,7 @@ body {
 
 .hero:hover {
     box-shadow: 13px 13px 0px var(--black-color);
+    cursor: pointer;
 }
 
 img {
